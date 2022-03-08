@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabSCS01
 - 👀 I’m interested in xpose my evolutions as a developer
-- 🌱 I’m currently learning  Python, HTLM, Java and CSS
+- 🌱 I’m currently learning  Python, HTML, CSS and JavaScript
 - 
 - 💞️ I’m looking to collaborate on develop software capable of automating everyday problems, in addition to expressing my evolution as a developer- 
 - 📫 How to reach me  > gabrielscspbi@gmail.com
